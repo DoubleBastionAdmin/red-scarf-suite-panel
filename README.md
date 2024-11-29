@@ -1,6 +1,4 @@
-<p align="center"><img src="red_scarf_suite_panel_logo_simple.svg" alt="RED SCARF Suite Panel Logo"/></p>
-
-<span style="display:block;width:100%;height:60px!important;"></span>
+<p align="center"><img src="red_scarf_suite_panel_logo_simple.svg" alt="RED SCARF Suite Panel Logo"/></p><br><br>
 
 **RED SCARF Suite Panel is an admin panel that provides a general view of the server's capabilities and health status and facilitates access to different login pages.**
 
