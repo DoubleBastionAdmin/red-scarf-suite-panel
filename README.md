@@ -1,5 +1,5 @@
 <p align="center"><img src="red_scarf_suite_panel_logo_simple.svg" alt="RED SCARF Suite Panel Logo"/></p>
-<p></p>
+<span style="display:block;height:40px;"></span>
 **RED SCARF Suite Panel is an admin panel that provides a general view of the server's capabilities and health status and facilitates access to different login pages.**
 
 License: GNU Affero General Public License Version v3+
