@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="280"
+   height="140.859"
+   viewBox="0 0 407.85025 205.17675"
+   enable-background="new 0 0 771.023 331.653"
+   xml:space="preserve"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs190"><rect
+   x="115.80646"
+   y="356.22867"
+   width="445.27658"
+   height="64.135818"
+   id="rect3398" />
+
+<linearGradient
+   id="linearGradient4289"><stop
+     style="stop-color:#a10000;stop-opacity:1;"
+     offset="0"
+     id="stop4285" /><stop
+     style="stop-color:#c60c03;stop-opacity:1;"
+     offset="0.5"
+     id="stop4357" /><stop
+     style="stop-color:#dd0000;stop-opacity:1;"
+     offset="1"
+     id="stop4287" /></linearGradient><rect
+   x="376.96265"
+   y="-297.10672"
+   width="595.94843"
+   height="105.37937"
+   id="rect4057" /><rect
+   x="369.82812"
+   y="-298.36057"
+   width="838.72955"
+   height="218.65695"
+   id="rect4051" /><rect
+   x="376.96265"
+   y="-297.10672"
+   width="448.94678"
+   height="64.517105"
+   id="rect4057-7" /><linearGradient
+   xlink:href="#linearGradient4289"
+   id="linearGradient4291"
+   x1="-13.841776"
+   y1="107.5021"
+   x2="343.69266"
+   y2="107.5021"
+   gradientUnits="userSpaceOnUse" /></defs>
+
+<g
+   id="g112"
+   transform="matrix(0.8310957,0,0,0.8310957,-224.99672,-6.0453901)">
+		<path
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="#a09f9f"
+   d="m 291.069,7.274 h 450.046 c 5.603,0 10.69,2.287 14.374,5.972 3.685,3.684 5.972,8.772 5.972,14.374 v 206.183 c 0,5.602 -2.287,10.689 -5.972,14.374 -3.684,3.684 -8.771,5.972 -14.374,5.972 H 291.069 c -5.602,0 -10.69,-2.288 -14.374,-5.972 -3.685,-3.685 -5.972,-8.772 -5.972,-14.374 V 27.62 c 0,-5.602 2.287,-10.69 5.972,-14.374 3.684,-3.685 8.772,-5.972 14.374,-5.972 z M 741.115,20.011 H 291.069 c -2.086,0 -3.987,0.858 -5.369,2.24 -1.382,1.381 -2.24,3.283 -2.24,5.369 v 206.183 c 0,2.086 0.858,3.986 2.24,5.368 1.381,1.382 3.283,2.24 5.369,2.24 h 450.046 c 2.086,0 3.987,-0.858 5.369,-2.24 1.382,-1.382 2.24,-3.282 2.24,-5.368 V 27.62 c 0,-2.086 -0.858,-3.987 -2.24,-5.369 -1.381,-1.382 -3.283,-2.24 -5.369,-2.24 z"
+   id="path74" />
+		<g
+   id="g110">
+			<path
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="#008dce"
+   d="M 412.253,87.067 V 42.735 c -24.484,0 -44.332,19.848 -44.332,44.332 0,24.483 19.848,44.332 44.332,44.332 16.614,0 31.095,-9.141 38.686,-22.667 z"
+   id="path76" />
+			<path
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="#b71f24"
+   d="m 412.253,42.735 v 44.332 l 38.686,21.665 c 3.596,-6.406 5.646,-13.796 5.646,-21.665 -10e-4,-24.484 -19.849,-44.332 -44.332,-44.332 z"
+   id="path78" />
+			<rect
+   x="530.23401"
+   y="150.069"
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="#b71f24"
+   width="22.961"
+   height="75.296997"
+   id="rect80" />
+			<rect
+   x="667.83899"
+   y="202.62"
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="#008dce"
+   width="22.961"
+   height="22.746"
+   id="rect82" />
+			<rect
+   x="633.43799"
+   y="167.761"
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="#00a34c"
+   width="22.961"
+   height="57.605"
+   id="rect84" />
+			<rect
+   x="599.03601"
+   y="194.022"
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="#a54686"
+   width="22.962"
+   height="31.344"
+   id="rect86" />
+			<rect
+   x="564.63599"
+   y="180.383"
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="#fff200"
+   width="22.961"
+   height="44.983002"
+   id="rect88" />
+			<rect
+   x="315.75699"
+   y="154.18201"
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="#b71f24"
+   width="62.060001"
+   height="15.914"
+   id="rect90" />
+			<rect
+   x="377.81601"
+   y="154.18201"
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="#d1d3d4"
+   width="123.603"
+   height="15.914"
+   id="rect92" />
+			<rect
+   x="315.75699"
+   y="182.186"
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="#b71f24"
+   width="129.028"
+   height="15.914"
+   id="rect94" />
+			<rect
+   x="444.785"
+   y="182.186"
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="#d1d3d4"
+   width="56.633999"
+   height="15.914"
+   id="rect96" />
+			<rect
+   x="315.75699"
+   y="210.188"
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="#b71f24"
+   width="88.992996"
+   height="15.914"
+   id="rect98" />
+			<rect
+   x="404.75"
+   y="210.188"
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="#d1d3d4"
+   width="96.668999"
+   height="15.914"
+   id="rect100" />
+			<rect
+   x="517.77698"
+   y="126.405"
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="#d1d3d4"
+   width="185.215"
+   height="5.0120001"
+   id="rect102" />
+			<g
+   id="g108">
+				
+					<polyline
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="none"
+   stroke="#008dce"
+   stroke-width="5.9998"
+   stroke-miterlimit="2.6131"
+   points="      701.725,87.39 690.493,86.979 667.978,96.24 645.428,57.828 623.135,111.305 600.4,89.992 578.098,97.73 555.822,83.301       531.528,98.634     "
+   id="polyline104" />
+				<rect
+   x="517.77698"
+   y="42.330002"
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="#d1d3d4"
+   width="5.0120001"
+   height="89.086998"
+   id="rect106" />
+			</g>
+		</g>
+	</g>
+<text
+   xml:space="preserve"
+   transform="translate(-733.25415,-150.39687)"
+   id="text4049"
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:80px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:'Nunito Semi-Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect4051);display:inline" /></svg>
